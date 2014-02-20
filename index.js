@@ -1,5 +1,5 @@
-var Emitter = require('emitter');
-var events = require('event');
+var Emitter = require('component-emitter');
+var events = require('component-event');
 
 var ELEMENT_NODE = document.ELEMENT_NODE;
 var TEXT_NODE    = document.TEXT_NODE;

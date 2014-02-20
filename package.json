@@ -1,0 +1,11 @@
+{
+  "name": "adamsanderson-caret",
+  "description": "Listen to and manipulate the text caret.",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component-emitter": "git://github.com/npmcomponent/component-emitter.git",
+    "component-event": "git://github.com/npmcomponent/component-event.git"
+  },
+  "license": "MIT"
+}
